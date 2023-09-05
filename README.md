@@ -1,4 +1,4 @@
-"# Jsp-School-Senior-Project" 
+# Jsp-School-Senior-Project
 This is a website that will help small companies (or robotics teams in this case) to manage their tasks in an efficient way along with keeping track of users and the tasks completed by each one. 
 ## Modules ##
 
@@ -8,7 +8,7 @@ This is a website that will help small companies (or robotics teams in this case
   * Allows users to veiw their profile.
   * Also users to change their profile picture.
   * Allows users to set their password and update it.
-* Hiring and Firing
+* adding or removing users
 	* Existing superirior personel can add their subordinates to the database
 	* Users can be deleted from the database
 * Tasks
