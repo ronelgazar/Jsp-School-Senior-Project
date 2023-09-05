@@ -5,12 +5,12 @@ The database is a microsoft access file 😅.
 
 * Login
   * User enters user name and password and hence can log in if the credentials are correct.
-* Employee Details
+* User Details
   * Allows users to veiw their profile.
   * Also users to change their profile picture.
   * Allows users to set their password and update it.
 * adding or removing users
-	* Existing superirior personel can add their subordinates to the database
+	* Existing group heads can add their subordinates to the database
 	* Users can be deleted from the database
 * Tasks
 	* Tasks can be added
