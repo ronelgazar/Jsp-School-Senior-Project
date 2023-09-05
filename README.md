@@ -1,5 +1,6 @@
 # Jsp-School-Senior-Project
 This is a website that will help small companies (or robotics teams in this case) to manage their tasks in an efficient way along with keeping track of users and the tasks completed by each one. 
+The database is a microsoft access file 😅.
 ## Modules ##
 
 * Login
