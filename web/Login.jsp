@@ -1,4 +1,5 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@include file="Header.jsp"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,6 +30,7 @@
                 <h3 class="block text-center mt-4 text-blue-500">אין משתמש? - דברו עם האחראי</h3>
                 <hr class="my-4">
             </form>
+             <button onclick="window.location.href='ExplaningPage.jsp'" class="w-full px-4 py-2 mt-4 bg-blue-500 text-white rounded">לעמוד הסברים</button>
         </div>
     </div>
 
