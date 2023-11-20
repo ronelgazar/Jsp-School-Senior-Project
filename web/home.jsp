@@ -46,7 +46,7 @@
      <footer class="bg-gray-800 text-white p-4 mt-8">
          <div class="container mx-auto text-center">
              <!-- Add footer content, links, or any other information -->
-             <p> 2023 Personal Task Tracker. All rights reserved
+             <p> Ron Elgazar. All rights reserved
          </div>
      </footer>
 
